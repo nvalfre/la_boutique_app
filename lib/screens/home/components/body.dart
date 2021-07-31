@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/constants.dart';
-import 'package:shop_app/models/Product.dart';
-import 'package:shop_app/screens/details/details_screen.dart';
+import 'package:la_boutique_dys_app/constants.dart';
+import 'package:la_boutique_dys_app/models/Product.dart';
+import 'package:la_boutique_dys_app/screens/details/details_screen.dart';
 
 import 'categorries.dart';
 import 'item_card.dart';
